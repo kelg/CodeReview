@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-28T02:59:01</date>
+  <millis>1582876741889</millis>
+  <sequence>0</sequence>
+  <logger>Logger</logger>
+  <level>INFO</level>
+  <class>com.refactor.belatrix.service.impl.FileLoggerServiceImpl</class>
+  <method>writeMessageToFile</method>
+  <thread>1</thread>
+  <message>MENSAJE DE PRUEBA</message>
+</record>
+</log>
